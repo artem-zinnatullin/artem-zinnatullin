@@ -1,6 +1,6 @@
 ## aka Abstractny Mujic
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=artem-zinnatullin&theme=onedark&no-frame=true&no-bg=true)](https://abstractny.gay)
+[![trophy](https://github-profile-trophy.vercel.app/?username=artem-zinnatullin&theme=onedark&no-frame=true&no-bg=true)](https://artemzin.com)
 
 I work on & with software that builds & runs software:
 
